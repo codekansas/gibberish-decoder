@@ -3,6 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Big files.
+*.npy
+*.hdf5
+*.txt
+*.json
+*.pkl
+*.buf
+
+# specialized files
+update.sh
+
 # C extensions
 *.so
 
